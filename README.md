@@ -1,5 +1,5 @@
 - 👋 Hi, I’m blair
-- 你好我是布萊爾
+- 你好～我是布萊爾
 
 <!---
 blair-ko/blair-ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
